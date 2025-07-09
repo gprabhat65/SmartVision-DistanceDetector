@@ -28,15 +28,25 @@
 
 SmartVision-DistanceDetector/
 │
+
 ├── app.py # Optional GUI or main app entry
+
 ├── main.py # Main script with full distance logic
+
 ├── with_sound.py # Alternate version with sound alert
+
 ├── functions.py # Helper functions (if modularized)
+
 ├── test5.mp4 # Input video (test footage)
+
 ├── visioneye-distance-calculation.avi # Output video
+
 ├── yolo11n.pt # YOLO model weights
+
 ├── requirements.txt # Python dependencies
+
 ├── README.md # You’re reading it!
+
 └── .gitignore # To exclude unnecessary files
 
 
